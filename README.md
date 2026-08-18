@@ -2,6 +2,15 @@
 
 这是我的计算机视觉学习项目第 1 周。
 
+## 文件结构
+
+```text
+week01/
+├─ day01-basic-image-processing/  # 第 1 天的代码、笔记、原图和结果图
+├─ .venv/                         # 本地 Python 环境，不上传到 GitHub
+└─ README.md
+```
+
 ## 已完成的练习
 
 1. 读取并显示彩色图片。
@@ -30,10 +39,16 @@
 
 ## 运行示例
 
-在项目文件夹的终端中运行：
+先在 VS Code 中打开当天的文件夹：
+
+```text
+day01-basic-image-processing
+```
+
+然后在终端中运行：
 
 ```powershell
-.\.venv\Scripts\python.exe edge_compare.py
+..\.venv\Scripts\python.exe edge_compare.py
 ```
 
 ## 下一步
